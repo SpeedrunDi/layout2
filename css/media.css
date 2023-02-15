@@ -1,0 +1,49 @@
+@media screen and (max-width: 991px) {
+  .img-1{
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+  }
+
+  .img-2{
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+    padding: 150px 150px;
+  }
+
+  .text-part{
+    text-align: center;
+    padding: 30px 40px;
+  }
+
+  .text-part h5{
+    padding-right: 0;
+  }
+
+  .part-1{
+    margin-bottom: 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .info-title{
+    font-size: 28px;
+  }
+
+  .info-text{
+    font-size: 16px;
+  }
+
+  .features-title{
+    font-size: 28px;
+  }
+
+  .text-part h5{
+    font-size: 25px;
+  }
+
+  .comments-block .carousel-inner p{
+    font-size: 22px;
+  }
+}
